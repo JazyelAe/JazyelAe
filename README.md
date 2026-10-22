@@ -1,222 +1,127 @@
-<div align="center">
+<!-- TEMA: para cambiar el color de TODO el README, busca 00F5FF y reemplázalo por otro código hex -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:05060F,60:1B1464,100:7B61FF&animation=twinkling&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,100:00F5FF&animation=twinkling&section=header" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=760&height=70&letterSpacing=6px&lines=JAZIEL+SERRANO" alt="Jaziel Serrano" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1300&pause=250&color=00F5FF&background=0D1117&multiline=true&repeat=false&width=640&height=150&lines=%3E+iniciando+jaziel.dev+...;%3E+cargando+perfil+.............+%5B+OK+%5D;%3E+montando+proyectos+..........+%5B+OK+%5D;%3E+conectando+con+GitHub+.......+%5B+OK+%5D;%3E+sesi%C3%B3n+iniciada+%C2%B7+bienvenido" alt="Secuencia de arranque" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2500&pause=1000&color=FFFFFF&background=0D1117&repeat=false&width=640&height=60&vCenter=true&lines=JAZIEL+SERRANO" alt="Jaziel Serrano" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=40&lines=%E2%96%B8+Desarrollador+Frontend+Jr.;%E2%96%B8+QA+Tester+%C2%B7+Pruebas+de+Software;%E2%96%B8+Interfaces+limpias%2C+r%C3%A1pidas+y+sin+bugs;%E2%96%B8+Puebla%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Roles" />
-
-<br/><br/>
-
-![Estado](https://img.shields.io/badge/ESTADO-DISPONIBLE_PARA_TRABAJAR-00F5FF?style=for-the-badge&labelColor=05060F)
-![Ubicación](https://img.shields.io/badge/PUEBLA-M%C3%89XICO-7B61FF?style=for-the-badge&labelColor=05060F)
-![Universidad](https://img.shields.io/badge/UTP-ING._EN_TI-00F5FF?style=for-the-badge&labelColor=05060F)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=C9D1D9&background=0D1117&width=640&height=36&vCenter=true&lines=%E2%96%B8+Frontend+Developer+Jr.;%E2%96%B8+QA+Tester;%E2%96%B8+Interfaces+limpias%2C+r%C3%A1pidas+y+sin+bugs;%E2%96%B8+Puebla%2C+M%C3%A9xico" alt="Roles" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:00F5FF,100:7B61FF&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&background=0D1117&repeat=false&width=520&height=38&vCenter=true&lines=jaziel%40dev%3A%7E%24+whoami" alt="whoami" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=560&height=60&letterSpacing=4px&lines=01+%C2%B7+SOBRE+M%C3%8D" alt="Sobre mí" />
+```text
+Jahir Jaziel Serrano Arana
+Estudiante de Ing. en Tecnologías de la Información · UTP
+Especialidad: Desarrollo de Software Multiplataforma
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B61FF,100:00F5FF&section=header" width="100%" />
+Busco mi primera oportunidad profesional como
+Frontend Developer Jr. o QA Tester en Puebla.
+Construyo interfaces limpias y cazo bugs antes de que lleguen a producción.
 
-</div>
-
-<br/>
-
-```ts
-const jaziel = {
-  nombre: "Jahir Jaziel Serrano Arana",
-  roles: ["Frontend Developer Jr.", "QA Tester"],
-  estudios: "Ing. en Tecnologías de la Información · UTP",
-  especialidad: "Desarrollo de Software Multiplataforma",
-  ubicacion: "Puebla, México",
-  buscando: "Mi primera oportunidad profesional en tecnología",
-  tambien: "Seguridad electrónica y redes de datos",
-  filosofia: "Código limpio · UI minimalista · cero bugs en producción",
-};
+También trabajo con seguridad electrónica y redes de datos.
 ```
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <sub>Interfaces modernas, responsivas y accesibles con enfoque en rendimiento y detalle visual.</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🧪 QA y Testing</h3>
-      <sub>Pruebas funcionales, casos de prueba y validación de calidad para detectar fallas antes del lanzamiento.</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🛡️ Seguridad y Redes</h3>
-      <sub>Experiencia práctica en cableado estructurado, videovigilancia y sistemas de seguridad.</sub>
-    </td>
-  </tr>
-</table>
-</div>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&background=0D1117&repeat=false&width=520&height=38&vCenter=true&lines=jaziel%40dev%3A%7E%24+ls+.%2Fstack" alt="ls ./stack" />
+
+`frontend/`
+
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=00F5FF" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=00F5FF" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=00F5FF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=00F5FF" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=00F5FF" alt="Figma" />
+
+`backend-y-datos/`
+
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=00F5FF" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=00F5FF" alt="Firebase" />
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00F5FF" alt="Python" />
+
+`herramientas/`
+
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=00F5FF" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF" alt="VS Code" />
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&background=0D1117&repeat=false&width=520&height=38&vCenter=true&lines=jaziel%40dev%3A%7E%24+ls+.%2Fproyectos" alt="ls ./proyectos" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:00F5FF,100:7B61FF&section=header" width="100%" />
+```text
+talenthub-mexico/
+├── descripción  Observatorio y portal de empleos para el sector TI en México
+├── tipo         Proyecto en equipo
+└── mi-rol       Frontend UX · QA
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=640&height=60&letterSpacing=4px&lines=02+%C2%B7+STACK+TECNOL%C3%93GICO" alt="Stack tecnológico" />
+<a href="https://github.com/yeu-dev/talenthub-mexico"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=00F5FF&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Fabrir-repositorio.sh;%3E+conectando+con+github.com+...;%5B+ACCEDER+%E2%86%92+talenthub-mexico+%5D" alt="Abrir repositorio de TalentHub México" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B61FF,100:00F5FF&section=header" width="100%" />
+```text
+mi-recetario/
+├── descripción  App web de recetas con base de datos en la nube y API pública
+├── stack        Firebase · JavaScript · PWA
+└── tipo         Proyecto académico (UTP)
+```
 
-<br/>
+<a href="https://github.com/JazyelAe/web"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=00F5FF&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Fabrir-repositorio.sh;%3E+conectando+con+github.com+...;%5B+ACCEDER+%E2%86%92+mi-recetario+%5D" alt="Abrir repositorio de Mi Recetario" /></a>
 
-<table>
-  <tr>
-    <td align="center" width="150"><b>FRONTEND</b></td>
-    <td align="center" width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark" width="56" /><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark" width="56" /><br/><sub><b>CSS3</b></sub></td>
-    <td align="center" width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" width="56" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" width="56" /><br/><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" width="56" /><br/><sub><b>Figma</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>BACKEND Y DATOS</b></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" width="56" /><br/><sub><b>MySQL</b></sub></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" width="56" /><br/><sub><b>Firebase</b></sub></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" width="56" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" colspan="2"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>HERRAMIENTAS</b></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="56" /><br/><sub><b>Git</b></sub></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="56" /><br/><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" width="56" /><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" colspan="2"></td>
-  </tr>
-</table>
+```text
+api-rest-ecommerce/
+├── descripción  API REST para tienda en línea con catálogo y base de datos
+├── stack        API REST · TypeORM · MySQL
+└── estado       repositorio próximamente
+```
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=8B949E&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Fabrir-repositorio.sh;%3E+acceso+restringido+...;%5B+PR%C3%93XIMAMENTE+%5D" alt="Repositorio próximamente" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:00F5FF,100:7B61FF&section=header" width="100%" />
+```text
+gravedad-cero/
+├── descripción  Proyecto de videojuego en Unity
+└── estado       en planeación
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=60&letterSpacing=4px&lines=03+%C2%B7+PROYECTOS+DESTACADOS" alt="Proyectos destacados" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B61FF,100:00F5FF&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=8B949E&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Finiciar.sh;%3E+en+planeaci%C3%B3n+...;%5B+PR%C3%93XIMAMENTE+%5D" alt="Proyecto próximamente" />
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🧠 TalentHub México</h3>
-      <sub>Observatorio y portal de empleos para el sector TI en México. Proyecto en equipo donde participo en Frontend UX y QA.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Frontend_UX-00F5FF?style=flat-square" />
-      <img src="https://img.shields.io/badge/QA-7B61FF?style=flat-square" />
-      <img src="https://img.shields.io/badge/Django-00F5FF?style=flat-square&logo=django&logoColor=05060F" />
-      <br/><br/>
-      <a href="https://github.com/yeu-dev/talenthub-mexico"><b>Ver repositorio →</b></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🛒 API REST E-commerce</h3>
-      <sub>API completa para tienda en línea con autenticación, catálogo y base de datos relacional.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/API_REST-00F5FF?style=flat-square" />
-      <img src="https://img.shields.io/badge/TypeORM-7B61FF?style=flat-square" />
-      <img src="https://img.shields.io/badge/MySQL-00F5FF?style=flat-square&logo=mysql&logoColor=05060F" />
-      <br/><br/>
-      <sub>🔗 Repositorio próximamente</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🍳 Mi Recetario</h3>
-      <sub>App web de recetas con base de datos en la nube y consumo de la API pública TheMealDB, con soporte PWA.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Firebase-00F5FF?style=flat-square&logo=firebase&logoColor=05060F" />
-      <img src="https://img.shields.io/badge/JavaScript-7B61FF?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/PWA-00F5FF?style=flat-square&logo=pwa&logoColor=05060F" />
-      <br/><br/>
-      <a href="https://github.com/JazyelAe/web"><b>Ver repositorio →</b></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 Gravedad Cero</h3>
-      <sub>Proyecto de videojuego en Unity, actualmente en etapa de planeación.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Game_Design-00F5FF?style=flat-square" />
-      <img src="https://img.shields.io/badge/Pr%C3%B3ximamente-1B1464?style=flat-square" />
-      <br/><br/>
-      <sub>🔗 En camino</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&background=0D1117&repeat=false&width=520&height=38&vCenter=true&lines=jaziel%40dev%3A%7E%24+gh+stats" alt="gh stats" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=JazyelAe&show_icons=true&locale=es&hide_border=true&border_radius=4&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&ring_color=00F5FF&count_private=true" alt="Estadísticas de GitHub" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazyelAe&layout=compact&locale=es&hide_border=true&border_radius=4&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Lenguajes más usados" />
+
+<img src="https://streak-stats.demolab.com?user=JazyelAe&locale=es&hide_border=true&border_radius=4&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:00F5FF,100:7B61FF&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&background=0D1117&repeat=false&width=520&height=38&vCenter=true&lines=jaziel%40dev%3A%7E%24+cat+roadmap.md" alt="cat roadmap.md" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=640&height=60&letterSpacing=4px&lines=04+%C2%B7+ESTAD%C3%8DSTICAS" alt="Estadísticas" />
+```text
+[ > ] EN CURSO     TalentHub México · Frontend UX y QA
+                   Diseño de la experiencia de usuario y control de calidad
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B61FF,100:00F5FF&section=header" width="100%" />
+[ . ] SIGUIENTE    Desarrollo de agentes y bots con inteligencia artificial
 
-<br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=JazyelAe&show_icons=true&locale=es&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=C9D1D9&ring_color=00F5FF&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazyelAe&layout=compact&locale=es&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JazyelAe&locale=es&hide_border=true&border_radius=12&background=0D1117&ring=00F5FF&fire=7B61FF&currStreakLabel=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=7B61FF" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JazyelAe&bg_color=0D1117&color=00F5FF&line=7B61FF&point_color=FFFFFF&area=true&area_color=7B61FF&hide_border=true&custom_title=Actividad%20de%20contribuciones" width="95%" />
+[ * ] META         Primer rol como Frontend Jr. o QA Tester en Puebla
+                   Seguir creciendo cada día
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:00F5FF,100:7B61FF&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&background=0D1117&repeat=false&width=520&height=38&vCenter=true&lines=jaziel%40dev%3A%7E%24+.%2Fcontactar.sh" alt="contactar.sh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=640&height=60&letterSpacing=4px&lines=05+%C2%B7+HOJA+DE+RUTA" alt="Hoja de ruta" />
+<a href="https://www.linkedin.com/in/jahirjazielserrano"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=00F5FF&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Fabrir-linkedin.sh;%3E+%2Fin%2Fjahirjazielserrano;%5B+CONECTAR+%E2%86%92+LinkedIn+%5D" alt="LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B61FF,100:00F5FF&section=header" width="100%" />
+<a href="mailto:jahirarana06@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=00F5FF&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Fenviar-correo.sh;%3E+jahirarana06%40gmail.com;%5B+ESCRIBIR+%E2%86%92+Correo+%5D" alt="Correo" /></a>
 
-<br/>
-
-<table>
-  <tr>
-    <th align="center" width="33%">⚡ EN CURSO</th>
-    <th align="center" width="33%">🔭 SIGUIENTE</th>
-    <th align="center" width="33%">🎯 META</th>
-  </tr>
-  <tr>
-    <td valign="top" align="center"><sub>TalentHub México: Frontend UX y QA<br/><br/>Diseño de la experiencia de usuario y control de calidad</sub></td>
-    <td valign="top" align="center"><sub>Desarrollo de agentes y bots con inteligencia artificial</sub></td>
-    <td valign="top" align="center"><sub>Mi primer rol como Frontend Jr. o QA Tester en Puebla<br/><br/>Seguir creciendo cada día</sub></td>
-  </tr>
-</table>
+<a href="https://TU_PORTAFOLIO"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=2600&color=00F5FF&background=0D1117&width=380&height=44&vCenter=true&lines=%24+.%2Fabrir-portafolio.sh;%3E+cargando+portafolio+...;%5B+VER+%E2%86%92+Portafolio+%5D" alt="Portafolio" /></a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:00F5FF,100:7B61FF&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1500&pause=900&color=00F5FF&background=0D1117&multiline=true&repeat=true&width=640&height=135&lines=%24+exit;%3E+guardando+sesi%C3%B3n+............+%5B+OK+%5D;%3E+gracias+por+visitar+mi+perfil;%3E+hasta+pronto+%E2%96%AE" alt="Cierre de sesión" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=640&height=60&letterSpacing=4px&lines=06+%C2%B7+CONTACTO" alt="Contacto" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B61FF,100:00F5FF&section=header" width="100%" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jahirjazielserrano"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=05060F" /></a>
-<a href="mailto:jahirarana06@gmail.com"><img src="https://img.shields.io/badge/Correo-7B61FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=05060F" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=%C2%BFTienes+un+proyecto+o+una+vacante%3F+Hablemos." alt="Cierre" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JazyelAe&label=VISITAS&color=7B61FF&style=for-the-badge&labelColor=0D1117" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05060F,100:7B61FF&animation=twinkling&section=footer&reversal=true" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F5FF,100:0D1117&animation=twinkling&section=footer&reversal=true" width="100%" alt="" />
